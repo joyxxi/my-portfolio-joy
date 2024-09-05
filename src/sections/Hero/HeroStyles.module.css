@@ -59,7 +59,7 @@
 }
 
 .colorMode {
-  position: absolute;
+  position: relative;
   right: 0;
   width: 25px;
 }

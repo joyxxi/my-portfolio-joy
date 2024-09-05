@@ -5,7 +5,8 @@ import ProjectCard from '../../common/ProjectCard';
 function Projects() {
   return (
     <section id="projects" className={styles.container}>
-      <h1 className="sectionTitile">Projects</h1>
+      <p>Browse My Selected</p>
+      <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={viberr}
