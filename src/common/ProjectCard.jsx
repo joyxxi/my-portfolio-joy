@@ -1,5 +1,3 @@
-import React from 'react';
-
 function ProjectCard({ src, githubLink, demoLink, h3, p }) {
   return (
     <div>

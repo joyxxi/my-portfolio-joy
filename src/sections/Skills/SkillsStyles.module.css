@@ -16,7 +16,7 @@
 .skillsContainer {
   display: flex;
   flex-direction: column;
-  margin: 10px 20px 10px 20px;
+  margin: 10px 40px 10px 40px;
   flex: 1 1 calc(40% - 2rem);
   border: 2px solid var(--text-color);
   border-radius: 20px;
