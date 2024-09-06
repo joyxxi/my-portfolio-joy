@@ -46,7 +46,7 @@ function Hero() {
           <a href={Resume} target="_blank" rel="noopener noreferrer">
             <button className="hover">Resume</button>
           </a>
-          <a>
+          <a href="#contact">
             <button className="hover">Contact</button>
           </a>
         </span>

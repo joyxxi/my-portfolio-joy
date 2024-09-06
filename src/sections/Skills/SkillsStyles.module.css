@@ -1,9 +1,8 @@
 .container {
-  margin-top: 20px;
   display: flex;
   flex-direction: column;
   text-align: center;
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
 
 .categories {
@@ -44,7 +43,7 @@
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 800px) {
   .skillsContainer {
     flex: 1 1 100%; /* On small screens, each container takes full width */
   }
